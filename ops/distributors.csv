@@ -1,0 +1,7 @@
+party_id,legal_name,country,sanctions_score,pep_score,adverse_media,country_risk,end_use_complete
+P-10441,Helios Brasil Distribuidora Ltda,BR,0.12,0.10,0.41,N,Y
+P-10388,Caspian Petrochem Trading FZE,AE,0.70,0.72,0.28,Y,Y
+P-10201,Northern Star Logistics GmbH,DE,0.02,0.00,0.05,N,Y
+P-10177,Pacific Rim Components Pte Ltd,SG,0.08,0.00,0.04,N,Y
+P-10112,Atlas MedSupply Inc,US,0.01,0.00,0.00,N,Y
+P-10090,Sahel Agricultural Inputs SA,SN,0.21,0.18,0.22,Y,N
