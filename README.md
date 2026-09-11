@@ -4,6 +4,8 @@ A Legal & Compliance Technology **control plane** — the portfolio product for 
 
 Fictional tenant: Helios International. No live customer data.
 
+**Live:** https://rajesh-444.github.io/meridian-lct/
+
 ## Run
 
 ```bash
